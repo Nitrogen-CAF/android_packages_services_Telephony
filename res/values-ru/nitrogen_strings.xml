@@ -14,4 +14,14 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="msim_mobile_network_settings_title">Параметры SIM %d</string>
+
+    <!-- Mobile network settings, preferred network modes -->
+    <string name="preferred_network_mode_td_scdma_only_choice">Только TD-SCDMA</string>
+    <string name="preferred_network_mode_global_choice">Весь мир</string>
+    <string name="preferred_network_mode_evdo_only_choice">Только EvDo</string>
+    <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo (авторежим)</string>
+    <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA (авторежим)</string>
+    <string name="preferred_network_mode_wcdma_only_choice">Только WCDMA</string>
+    <string name="preferred_network_mode_gsm_only_choice">Только GSM</string>
+    <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA (предпочтительно)</string>
 </resources>
